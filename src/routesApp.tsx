@@ -11,7 +11,8 @@ import ResetPassword from './pages/public/ResetPassword'
 import 'animate.css';
 import Notifications from './pages/private/Notifications'
 import TransportersAllStatus from './pages/private/transporter/TransportersAllStatus2'
-import Dashboard from './pages/private/DashBoard'
+import Dashboard from './pages/private/Dashboard'
+// import Dashboard from './pages/private/DashBoard'
 
 const router = createBrowserRouter([
   {
